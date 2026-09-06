@@ -1,0 +1,6 @@
+{
+  "name": "5인 독서모임 - 나는 소망한다 내게 금지된 것을",
+  "description": "양귀자의 『나는 소망한다 내게 금지된 것을』 5인 인터랙티브 실시간 독서모임 진행 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
